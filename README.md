@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+## Hi 👋, I'm Alexander
 
-<h3 align="center">🤓 A Mechatronic Engineer from Peru :peru:</h3>
+- 🤓 A Mechatronic Engineer from Peru :peru:
 
 - 📊 Currently working at Interbank as Data Engineer
 
