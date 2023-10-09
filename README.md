@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 
-<h3 align="center">🤓 A Mechatronic Engineer from Peru 🇮🇳</h3>
-<p align="left"> <img src=https://media.licdn.com/dms/image/C4D03AQGcibUubF2Ljg/profile-displayphoto-shrink_800_800/0/1653259228694?e=1702512000&v=beta&t=4Z_qidsf9SNt3OS-Sme0JcIr6cDjxgRUVuB1F62Rfug alt=Alexander/> </p>
+<h3 align="center">🤓 A Mechatronic Engineer from Peru :peru:</h3>
 
 
 <!--   
