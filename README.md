@@ -3,20 +3,18 @@
 <h3 align="center">🤓 A Mechatronic Engineer from Peru :peru:</h3>
 
 
-<!--   
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+- 💬 Ask me about **Python, C, Javascript and React**
 
+- 📫 Reach me at **afsegovia@pucp.edu.pe**
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- 👨‍💻 All of my projects are available at [Alexander](https://franciscoSegovia1997.github.io)
 
-- 💬 Ask me about **react, vue and gsap**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/alexander-segovia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Alexander Segovia" height="30" width="40" /></a>
+</p>
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
-
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
-
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
-
+<!--
 I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
 
 <h3 align="left">Connect with me:</h3>
